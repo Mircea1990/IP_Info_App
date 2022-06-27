@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "841952741768",
+    "firebase_url": "https://mircea-project-335414-default-rtdb.firebaseio.com",
+    "project_id": "mircea-project-335414",
+    "storage_bucket": "mircea-project-335414.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841952741768:android:c607d35f4566b72a6bd23d",
+        "android_client_info": {
+          "package_name": "com.example.countryinfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841952741768-kve2fhpkjsf04s1dggp6gdctsocuu75q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSj_1N0xX59YBGBgnS2rtrDzvUGKOVw3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841952741768-kve2fhpkjsf04s1dggp6gdctsocuu75q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

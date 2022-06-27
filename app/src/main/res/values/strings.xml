@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Country IP Finder</string>
+    <string name="home">Home</string>
+    <string name="contact">Contact</string>
+    <string name="maps">Google Maps</string>
+    <string name="profile">Profile</string>
+    <string name="about">About</string>
+    <string name="comunication">Communication</string>
+    <string name="share">Share</string>
+    <string name="rate_me">Rate me</string>
+    <string name="nav_open">Open Navigation Drawer</string>
+    <string name="close">Close Navigation Drawer</string>
+    <string name="find_country_by_ip">Find Country by Ip</string>
+    <string name="map_key" translatable="false">AIzaSyCftLPKWxk2UEBKRLJYX_bWxWZ_NFDJH28</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_ip_address">Enter ip address</string>
+    <string name="ip_address">Ip address...</string>
+    <string name="back_to_main_menu">Back to Main Menu</string>
+    <string name="demo">My Application</string>
+    <string name="title_activity_rate">RateActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="submit">Submit</string>
+    <string name="stefanescu_mircea_grupa_1151_id">Stefanescu Mircea Grupa 1151 ID</string>
+    <string name="to">To</string>
+    <string name="subject">Subject</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="country_finder_by_ip">Country Finder by IP</string>
+    <string name="countryip_com">country.com</string>
+    <string name="register_form">Register Form</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="enter_your_password">Enter your Password</string>
+    <string name="register">Register</string>
+</resources>
